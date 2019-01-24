@@ -1,4 +1,4 @@
-const TESTEM_BASE_URL = 'http://localhost:7357/tests/index.html';
+const TESTEM_BASE_URL = 'http://localhost:4200/tests/index.html';
 
 interface TestemModuleID { moduleId: string; }
 interface TestemTestID { testId: string; }
