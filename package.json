@@ -6,7 +6,7 @@
     "publisher": "DocX",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DocX/ember-qunit-testem-launcher.git"
+        "url": "https://github.com/mattyturner/ember-qunit-testem-launcher.git"
     },
     "engines": {
         "vscode": "^1.29.0"
